@@ -1,0 +1,10 @@
+# veritasr
+
+
+# default
+node_modules/
+dist/
+*.local
+*.zip
+
+

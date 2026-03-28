@@ -1,0 +1,6 @@
+{
+  "datasets": [
+    { "id": "fema_ayr", "name": "FEMA Are You Ready?", "path": "/FEMA_AYR.json" }
+  ],
+  "default": "fema_ayr"
+}
